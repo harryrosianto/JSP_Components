@@ -1,12 +1,3 @@
-Certainly! Below is a Markdown file format of the university course registration system using JavaServer Pages (JSP). You can save this content in a `.md` file and upload it to GitHub.
-
-
-# University Course Registration System
-
-## Overview
-
-This project demonstrates a university course registration system using JavaServer Pages (JSP). Students can log in, view available courses, enroll in courses, and view their enrolled courses dynamically.
-
 ## Components Used
 
 ### JSP Comments
