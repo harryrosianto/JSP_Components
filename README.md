@@ -1,6 +1,6 @@
 Certainly! Below is a Markdown file format of the university course registration system using JavaServer Pages (JSP). You can save this content in a `.md` file and upload it to GitHub.
 
-```markdown
+
 # University Course Registration System
 
 ## Overview
@@ -132,6 +132,3 @@ This example showcases the use of JavaServer Pages (JSP) components in a univers
 - **JSP Implicit Objects:** Accessed request parameters and session information.
 
 These components together enable the creation of a dynamic and interactive web application using JavaServer Pages, suitable for a university course registration system.
-```
-
-Save the above content into a file named `university-course-registration.md` or any suitable name, and then you can upload it to your GitHub repository. This Markdown file provides a clear overview of the project structure, explains each JSP component used, and summarizes their roles in building the university course registration system.
